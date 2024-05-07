@@ -1,0 +1,15 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background circle -->
+    <circle cx="100" cy="110" r="90" fill="#00000" />
+    <!-- Coffee cup -->
+    <path d="M50,150 a40,40 0 0,0 100,0" fill="#f7f7f7"/>
+    <rect x="70" y="100" width="60" height="50" fill="#f7f7f7"/>
+    <!-- Coffee steam -->
+    <path d="M 85,100 C 80,90 80,80 85,70" stroke="#fff" stroke-width="2"/>
+    <path d="M 115,100 C 110,90 110,80 115,70" stroke="#fff" stroke-width="2"/>
+    <!-- Text -->
+    <text x="51%" y="30%" text-anchor="middle" fill="#fff" font-family="Arial" font-size="24">
+      Coffee Cafe
+    </text>
+  </svg>
+  
